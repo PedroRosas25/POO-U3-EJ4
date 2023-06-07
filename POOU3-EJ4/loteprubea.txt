@@ -1,0 +1,37 @@
+9
+123456789
+Juan Pérez
+Calle Principal, 123
+555-1234
+987654321
+María López
+Avenida Central, 456
+555-5678
+654987321
+Carlos García
+Calle Secundaria, 789
+555-9012
+876543219
+Laura Rodríguez
+Avenida Norte, 987
+555-3456
+543219876
+Pedro Martínez
+Calle Sur, 654
+555-7890
+987321654
+Ana Sánchez
+Avenida Este, 321
+555-2345
+321654987
+Luis Hernández
+Calle Oeste, 987
+555-6789
+234567891
+Sofía Gómez
+Avenida Principal, 654
+555-0123
+678912345
+Miguel Torres
+Calle Central, 321
+555-4567
